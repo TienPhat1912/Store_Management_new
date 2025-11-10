@@ -73,17 +73,7 @@ public class EmployeeManager {
         }
         return result;
     }
-    // ====== HIỂN THỊ DANH SÁCH ======
-    public void displayAll() {
-        if (employees.isEmpty()) {
-            System.out.println("Không có nhân viên nào.");
-            return;
-        }
-        System.out.println("===== DANH SÁCH NHÂN VIÊN =====");
-        for (Employee e : employees) {
-            System.out.println(e.toDisplay());
-        }
-    }
+    
     // ====== CẬP NHẬT THÔNG TIN NHÂN VIÊN ======
     public boolean updateShift(String id, String newShift) {
         for (Employee e : employees) {

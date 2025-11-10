@@ -1,30 +1,30 @@
-P1|Samsung Note 10|10000000|80|�?iện thoại
-P2|iPhone 14 Pro|26000000|60|�?iện thoại
-P4|Oppo Reno 11|9500000.0|85|�?iện thoại
-P5|Vivo V30|8900000.0|90|�?iện thoại
+P1|Samsung Note 10|10000000|80|Dien thoai
+P2|iPhone 14 Pro|26000000|60|Dien thoai
+P4|Oppo Reno 11|9500000.0|85|Dien thoai
+P5|Vivo V30|8900000.0|90|Dien thoai
 P6|Macbook Air M2|33000000|50|Laptop
 P7|Dell XPS 13|29000000|40|Laptop
 P8|Asus ROG Zephyrus|42000000|35|Laptop
 P9|HP Pavilion 15|18000000|70|Laptop
 P10|Lenovo ThinkPad X1|32000000|45|Laptop
-P11|iPad Air 5|18000000|55|Máy tính bảng
-P12|Samsung Galaxy Tab S9|21000000|48|Máy tính bảng
-P13|Xiaomi Pad 6|12000000|65|Máy tính bảng
-P14|Lenovo Tab M10|6500000.0|75|Máy tính bảng
-P15|Huawei MatePad 11|15000000|52|Máy tính bảng
-P16|Chuột Logitech MX Master 3|2500000.0|150|Phụ kiện
-P17|Bàn phím cơ Keychron K6|2700000.0|140|Phụ kiện
-P18|Tai nghe Sony WH-1000XM5|9500000.0|90|Phụ kiện
-P19|Sạc dự phòng Anker 20k|1200000.0|200|Phụ kiện
-P20|Thẻ nhớ SanDisk 128GB|600000.0|220|Phụ kiện
-P21|Realme 12 Pro|8900000.0|100|�?iện thoại
-P22|Samsung Galaxy S24 Ultra|33000000|30|�?iện thoại
+P11|iPad Air 5|18000000|55|May tinh bang
+P12|Samsung Galaxy Tab S9|21000000|48|May tinh bang
+P13|Xiaomi Pad 6|12000000|65|May tinh bang
+P14|Lenovo Tab M10|6500000.0|75|May tinh bang
+P15|Huawei MatePad 11|15000000|52|May tinh bang
+P16|Chuot Logitech MX Master 3|2500000.0|150|Phu kien
+P17|Ban phim co Keychron K6|2700000.0|140|Phu kien
+P18|Tai nghe Sony WH-1000XM5|9500000.0|90|Phu kien
+P19|Sac du phong Anker 20k|1200000.0|200|Phu kien
+P20|The nho SanDisk 128GB|600000.0|220|Phu kien
+P21|Realme 12 Pro|8900000.0|100|Dien thoai
+P22|Samsung Galaxy S24 Ultra|33000000|30|Dien thoai
 P23|Acer Aspire 5|17000000|60|Laptop
 P24|MSI Modern 14|19500000|55|Laptop
-P25|iPad Pro M4|32000000|40|Máy tính bảng
-P26|Xiaomi Pad 5 Pro|13500000|68|Máy tính bảng
-P27|Bàn phím Apple Magic Keyboard|4500000.0|110|Phụ kiện
-P28|Tai nghe AirPods Pro 2|6000000.0|95|Phụ kiện
-P29|Cáp sạc Baseus USB-C|350000.0|300|Phụ kiện
-P30|�?ế tản nhiệt Laptop CoolerMaster|800000.0|180|Phụ kiện
-P31|Iphone 17 Pro Max|54000000|30|Di?n tho?i
+P25|iPad Pro M4|32000000|40|May tinh bang
+P26|Xiaomi Pad 5 Pro|13500000|68|May tinh bang
+P27|Ban phim Apple Magic Keyboard|4500000.0|110|Phu kien
+P28|Tai nghe AirPods Pro 2|6000000.0|95|Phu kien
+P29|Cap sac Baseus USB-C|350000.0|300|Phu kien
+P30|De tan nhiet Laptop CoolerMaster|800000.0|180|Phu kien
+P31|iPhone 17 Pro Max|54000000|30|Dien thoai
